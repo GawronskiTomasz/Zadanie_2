@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Zadanie 2</string>
+    <string name="hello_blank_fragment">Pusty wpis!</string>
+    <string name="textview">Pole tekstowe</string>
+    <string name="todo">TODO</string>
+    <string name="long_click">LONG CLICK</string>
+    <string name="retray_msg">Spróbuj ponownie!</string>
+    <string name="delete_cancel_msg">Usunięce wpisu anulowane</string>
+
+    <string name="dialog_confirm">Potwierdź</string>
+    <string name="dialog_cancel">Wstecz</string>
+    <string name="delete_question">Usuń wpis osoby</string>
+    <string name="bin">BIN</string>
+    <string name="zapisz">Zapisz</string>
+
+    <string name="data_urodzin">Data urodzin</string>
+    <string name="imi_i_nazwisko">Imię i nazwisko</string>
+    <string name="kr_tki_opis">Krótki opis</string>
+    <string name="nazwa">Nazwa</string>
+    <string name="opis">Opis</string>
+    <string name="data">Data</string>
+
+    <string name="myFileprovider">com.example.zadanie2</string>
+    <string name="prefs">prefs</string>
+    <string name="text">text</string>
+    <string name="json">json</string>
+</resources>
